@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Gentium+Book+Plus&family=Source+Sans+Pro&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}   
+body{
+    background-color: greenyellow;   
+    font-family: 'Dancing Script', cursive;
+font-family: 'Gentium Book Plus', serif;
+font-family: 'Source Sans Pro', sans-serif;
+} 
+#veg
+{  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px; 
+}
+#vegatableSaladImage {
+    height: 450px; 
+    width: 700px;
+} 
+#a {
+    text-align: center; 
+    border: 20px rgb(91, 93, 86) solid; 
+} 
+#a {
+    color: blue;
+}
